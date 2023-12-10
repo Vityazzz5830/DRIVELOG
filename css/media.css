@@ -1,0 +1,156 @@
+@media screen and (max-width: 1800px) and (min-width: 1600px){
+	.examplesec-slider-item img {
+		width: 457px !important;
+	}
+}
+
+
+@media screen and (max-width: 1800px) and (min-width: 1200px){
+
+/*-------------------------------ШАПКА-------------------------------*/
+  .main__container-header{
+  	padding-left: 170px;
+  	padding-right: 20px;
+  }
+
+  .header_content-rightpart > p:nth-child(2) {
+	font-size: 1.25rem;
+	margin-left: 15px;
+}
+
+.header_content-rightpart > a {
+	margin-left: 15px;
+}
+
+.header_content-rightpart > p:nth-child(1) {
+	font-size: 1.25rem;
+}
+
+
+.header_main > p:nth-child(2) {
+	font-size: 2.25rem;
+}
+
+.header_main h1 {
+	font-size: 3rem;
+}
+
+
+.main_container_popup{
+	padding-left: 100px;
+	max-width: 83vw;
+}
+
+#batmenu {
+	
+}
+
+.header_content-wrap {
+	margin: unset;
+}
+
+.header_vertline {
+	height: 953px;
+}
+
+/*-------------------------------СЕКЦИЯ ВАШ БИЗНЕС-------------------------------*/
+  .businesssec{
+  	padding-left: 20px;
+  	padding-right: 20px;
+  }
+
+/*-------------------------------СЕКЦИЯ УСЛУГИ-------------------------------*/
+
+.servicessec{
+  	padding-left: 20px;
+  	padding-right: 20px;
+  }
+
+.servicessec-content-list-item {
+	width: 44vw;
+	max-width: 630px;
+	padding-left: 30px;
+}
+
+.servicessec-content-moreinfo {
+	z-index: 10;
+}
+
+.servicessec-content-list-item p {
+	z-index: 10;
+}
+
+/*-------------------------------СЕКЦИЯ НЕОБХОДИМА КОНСУЛЬТАЦИЯ-------------------------------*/
+
+
+
+  .consultsec{
+  	padding-left: 20px;
+  	padding-right: 20px;
+  }
+
+  .consultsec-content-form {
+		column-gap: 10px;
+	}
+
+/*-------------------------------СЕКЦИЯ О КОМПАНИИ-------------------------------*/
+
+
+.companysec{
+  padding-left: 20px;
+  padding-right: 20px;
+ }
+
+.companysec-content-title-leftpart p {
+	font-size: 1.75rem;
+}
+	
+/*-------------------------------СЕКЦИЯ ПРИМЕРЫ-------------------------------*/
+
+  .examplesec{
+  	padding-left: 20px;
+  	padding-right: 20px;
+  }
+
+
+  .examplesec-slider {
+  	max-width: 89vw;
+  	margin:0 auto;
+  	display: grid !important;
+	}
+
+.examplesec-slider-item img {
+	width: 43vw;
+}
+
+
+/*-------------------------------СЕКЦИЯ НЕОБХОДИМА КОНСУЛЬТАЦИЯ-------------------------------*/
+
+  .advantagessec{
+  	padding-left: 20px;
+  	padding-right: 20px;
+  }
+
+  .advantagessec-content-list-item h3 {
+	font-size: 2rem;
+}
+
+
+/*-------------------------------СЕКЦИЯ КОНТАКТЫ-------------------------------*/
+
+
+  .contactssec{
+    overflow-x: hidden;
+  }
+
+/*-------------------------------ФУТЕР-------------------------------*/
+
+  footer{
+  	padding-left: 20px;
+  	padding-right: 20px;
+  }
+
+  .footer_content {
+	column-gap: 20px;
+	}
+}
